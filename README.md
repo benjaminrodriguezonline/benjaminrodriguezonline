@@ -1,5 +1,8 @@
 <h3>🔭 I’m currently working on various projects in python as I learn the language!<h3>
 
+![desktop-wallpaper-justin-maller-abstract-animals-digital-art-scorpions-scorpion-art](https://github.com/user-attachments/assets/5f03dc0d-7e15-4ea1-9d95-7018c92bebf8)
+
+
 <!--
 **benjaminrodriguezonline/benjaminrodriguezonline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
