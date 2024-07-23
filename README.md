@@ -1,4 +1,4 @@
-🔭 <h3>I’m currently working through various projects in python as I work through learning the language!<h3>
+🔭 <h3>I’m currently working on various projects in python as I learn the language!<h3>
 
 <!--
 **benjaminrodriguezonline/benjaminrodriguezonline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
